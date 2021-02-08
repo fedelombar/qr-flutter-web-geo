@@ -1,6 +1,13 @@
 # QR FLUTTER GEO - WEB
 
-A new Flutter project.
+
+The application can be launched on both iOS and Android.
+
+In the APP you can perform QR scans to web pages and geolocation.
+
+Within the application the web will open or if it is a geo, the Google map will open.
+
+You can change the normal view to satellite😎
 
 ## Getting Started
 
